@@ -1,0 +1,10 @@
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\nicol\Desktop\Fatec\Semestre 2\LP II\PCalc\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
